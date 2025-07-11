@@ -14,4 +14,4 @@
 
 这里不仅仅是一个资源平台，更是一个社区，用户可以互相交流、分享影片推荐、评分并讨论剧情。无论您是新用户还是老影迷，都可以在这里找到自己的兴趣所在。我们还定期举办投票活动，评选出本月最受欢迎的影片和女优，帮助用户发现更多精彩内容。
 
-<span style="display:none;">[Canonical link](https://github.com/fkt20250711/fkt2）</span>
+<span style="display:none;">[Canonical link]( )</span>
